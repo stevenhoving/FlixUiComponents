@@ -1,2 +1,3 @@
-# FlixUiComponents
-FlixUiComponents
+# flx.ui qml reusable components
+
+* clock
